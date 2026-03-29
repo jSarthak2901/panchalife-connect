@@ -1,4 +1,4 @@
-## Smart India Hackathon (SIH) 2025  
+# Smart India Hackathon (SIH) 2025  
 
 Developed as part of Smart India Hackathon (SIH) 2025 by **Team JavaBeans**:
 
@@ -9,7 +9,8 @@ Developed as part of Smart India Hackathon (SIH) 2025 by **Team JavaBeans**:
 - Siddhi Bansal  
 - Nitishika Jain  
 
-  PPT Link:-https://drive.google.com/file/d/1jHboI2YlSMVDIDvBxmL5WQQ-ibahVI_Y/view?usp=drive_link
+  # PPT Link:
+  https://drive.google.com/file/d/1jHboI2YlSMVDIDvBxmL5WQQ-ibahVI_Y/view?usp=drive_link
 
 # AyurSutra – Panchakarma Management Platform
 ## Overview  

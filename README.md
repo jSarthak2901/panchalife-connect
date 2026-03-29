@@ -1,12 +1,13 @@
-# Smart India Hackathon (SIH) 2025
-Developed during Smart India Hackathon (SIH) 2025 by:
+## Smart India Hackathon (SIH) 2025  
+
+Developed as part of Smart India Hackathon (SIH) 2025 by **Team JavaBeans**:
 
 - Sarthak Jain  
 - Bhavy Saini  
 - Ayush Singh  
 - Shreya Tripathi  
 - Siddhi Bansal  
-- Nitishika Jain
+- Nitishika Jain  
 
   PPT Link:-https://drive.google.com/file/d/1jHboI2YlSMVDIDvBxmL5WQQ-ibahVI_Y/view?usp=drive_link
 

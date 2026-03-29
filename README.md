@@ -76,7 +76,7 @@ https://lovable.dev/projects/ac4d909c-124a-48cf-8b14-324e77c2e901
 
 ---
 
-## Demo and Presentation
+## Presentation
 
 Presentation (PPT):  
 https://drive.google.com/file/d/1jHboI2YlSMVDIDvBxmL5WQQ-ibahVI_Y/view?usp=drive_link  

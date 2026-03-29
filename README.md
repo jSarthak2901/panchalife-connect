@@ -6,7 +6,9 @@ Developed during Smart India Hackathon (SIH) 2025 by:
 - Ayush Singh  
 - Shreya Tripathi  
 - Siddhi Bansal  
-- Nitishika Jain  
+- Nitishika Jain
+
+  PPT Link:-https://drive.google.com/file/d/1jHboI2YlSMVDIDvBxmL5WQQ-ibahVI_Y/view?usp=drive_link
 
 # AyurSutra – Panchakarma Management Platform
 ## Overview  

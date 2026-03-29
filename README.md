@@ -1,12 +1,12 @@
 # Smart India Hackathon (SIH) 2025
 Developed during Smart India Hackathon (SIH) 2025 by:
 
-Sarthak Jain
-Bhavy Saini
-Ayush Singh
-Shreya Tripathi
-Siddhi Bansal
-Nitishika Jain
+- Sarthak Jain  
+- Bhavy Saini  
+- Ayush Singh  
+- Shreya Tripathi  
+- Siddhi Bansal  
+- Nitishika Jain  
 
 # AyurSutra – Panchakarma Management Platform
 ## Overview  
